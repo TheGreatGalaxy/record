@@ -1,0 +1,1 @@
+/usr/bin/g++-5   -g   CMakeFiles/dpng.dir/displaypng.cpp.o  -o dpng -lX11 -lpng 

@@ -1,0 +1,1 @@
+/usr/bin/g++-5   -g   CMakeFiles/co.dir/co.cpp.o  -o co -lX11 -lXcomposite -lXrender 

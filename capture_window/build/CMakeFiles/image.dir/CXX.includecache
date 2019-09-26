@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/zhenwei-qian/LinuxData/data/capture_window/image.cpp
+xcb/xcb.h
+-
+xcb/xproto.h
+-
+xcb/composite.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+opencv2/opencv.hpp
+-
+opencv2/highgui/highgui.hpp
+-
+unistd.h
+-
+vector
+-
+pthread.h
+-
+semaphore.h
+-
+boost/thread/thread.hpp
+-
+boost/bind.hpp
+-
+time.h
+-
+

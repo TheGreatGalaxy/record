@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/zhenwei-qian/LinuxData/data/capture_window/displaypng.cpp
+X11/Xlib.h
+-
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+png.h
+-
+X11/Xutil.h
+-
+X11/Xatom.h
+-
+iostream
+-
+

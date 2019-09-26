@@ -1,0 +1,6 @@
+/media/zhenwei-qian/LinuxData/data/capture_window/build/CMakeFiles/edit_cache.dir
+/media/zhenwei-qian/LinuxData/data/capture_window/build/CMakeFiles/rebuild_cache.dir
+/media/zhenwei-qian/LinuxData/data/capture_window/build/CMakeFiles/co.dir
+/media/zhenwei-qian/LinuxData/data/capture_window/build/CMakeFiles/ds.dir
+/media/zhenwei-qian/LinuxData/data/capture_window/build/CMakeFiles/record_by_image.dir
+/media/zhenwei-qian/LinuxData/data/capture_window/build/CMakeFiles/dpng.dir

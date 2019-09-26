@@ -1,0 +1,1 @@
+/usr/bin/g++-5   -g   CMakeFiles/ds.dir/draw_string.cpp.o  -o ds -lX11 
