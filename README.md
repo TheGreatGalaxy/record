@@ -13,7 +13,7 @@ In this project, I just find one way to get image from some window. The script i
 Just use CMAKE. Also can be done by other compiler e.g. g++,clang if you want.
 ## Join us, improve it together 
 This work can be better. If you are interested in it, Join us！
-###　Ｔｏ do
+### To do
 1. support .mp4, flv...
 2. support H264, MPEG encoders...
 3. add .sh file to install dependence libraries automaticlly
