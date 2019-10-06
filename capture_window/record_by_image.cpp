@@ -57,7 +57,6 @@ Record::Record(char* vedio_path, const char *window_id){
     count = 0;
     vedio_write_init = false;
     need_exit=false;
-    // path = "/home/zhenwei-qian/rviz/";
     sem_init(&lock_count,0,0);
     start();
 }
@@ -230,7 +229,7 @@ int main(int argc, char **argv) {
             return EXIT_FAILURE;
         }
     }
-    char vedio_path[] = "/home/zhenwei-qian/rviz/rviz.avi";
+    char vedio_path[] = "/home/rviz/rviz.avi";
     Record record(vedio_path,window_id);
 
     return EXIT_SUCCESS;
